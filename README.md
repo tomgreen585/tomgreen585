@@ -1,4 +1,4 @@
-# Hi I am Tom
+# Hi i am Tom
 
 Currently in my third year at Victoria University doing a BE(HONS) specialising in CyberSecurity.
 My account contains projects that I have done myself and while studying at the university.
