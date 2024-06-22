@@ -3,6 +3,10 @@
 Currently in my third year at Victoria University doing a BE(HONS) specialising in CyberSecurity.
 My account contains projects that I have done myself and while studying at the university.
 
+###Languages and Tools:
+- Languages: Java, Java-Script, HTML/CSS, Python, Bash, C, C++
+- Developer Tools: Git, IntelliJ, Docker, Visual Studio Code
+
 ### List of Subjects Taken:
 - CYBR: 171, 271, 371
 - COMP: 102, 103, 261, 307
