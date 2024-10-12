@@ -1,4 +1,4 @@
-# Hi i am Tom
+# hi i am Tom
 
 ### Languages and Tools:
 - Languages: Java, Java-Script, HTML/CSS, Python, Bash, C, C++
