@@ -5,8 +5,8 @@
 - Developer Tools: Git, IntelliJ, Docker, Visual Studio Code
 
 ### List of Subjects Taken:
-- CYBR: 171, 271, 371, 372, 373
+- CYBR: 171, 271, 371, 372, 373, 472, 473
 - COMP: 102, 103, 261, 307, 309
-- ENGR: 101, 102, 201, 301, 302
+- ENGR: 101, 102, 201, 301, 302, 401, 489
 - SWEN: 221, 225, 326
 - NWEN: 241, 243
