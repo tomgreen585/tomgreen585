@@ -42,13 +42,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## GitHub Analytics
-<p align="left">
-<a href="https://github.com/tomgreen585">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomgreen585&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 ## Subjects Completed (VUW)
  **CYBR** 171, 271, 371, 372, 373, 471, 472, 473
  
